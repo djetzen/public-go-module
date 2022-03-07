@@ -1,4 +1,4 @@
-package public_go_module
+package hello
 
 import (
 	"fmt"
