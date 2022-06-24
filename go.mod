@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/djetzen/private-go-module v0.0.0-20220304075824-b24008625b38
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.5
 )
 
 require (
